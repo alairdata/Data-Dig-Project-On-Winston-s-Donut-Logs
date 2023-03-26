@@ -1,4 +1,4 @@
-# data-dig
+# data-dig-project
 
 # DataDig
 DataDig is a project that creates a database and a table in MySQL to store logs of donuts eaten by a person named Winston throughout his life. The purpose of this project is to practice creating a database, defining a table schema, and inserting data into it using SQL commands.
