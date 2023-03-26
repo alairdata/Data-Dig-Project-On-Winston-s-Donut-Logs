@@ -19,10 +19,10 @@ Overall, the script creates a new database, selects it, creates a new table, and
 To run this project, you will need to have MySQL installed on your machine.
 
 # Getting Started
-Clone this repository to your local machine.
-Open a terminal and navigate to the project directory.
-Start the MySQL server by running the following command: mysql.server start
-Log into the MySQL server by running the following command: mysql -u root
-Create a new database by running the following command: CREATE DATABASE DataDig;
-Select the new database by running the following command: USE DataDig;
-Create a table to store the data by running the following command:
+- Clone this repository to your local machine.
+- Open a terminal and navigate to the project directory.
+- Start the MySQL server by running the following command: mysql.server start
+- Log into the MySQL server by running the following command: mysql -u root
+- Create a new database by running the following command: CREATE DATABASE DataDig;
+- Select the new database by running the following command: USE DataDig;
+- Create a table to store the data as shown in the script
